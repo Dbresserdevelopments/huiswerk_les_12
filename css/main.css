@@ -1,0 +1,59 @@
+header{
+  background: #FF0000;
+  width: auto;
+  height: 100px;
+  text-align: center;
+}
+
+body{
+  background: #A9A9A9;
+  color: #444;
+}
+
+img{
+  max-width: 100px;
+  max-height: 100px;
+}
+
+td{
+  width: 100px;
+  text-align: center;
+}
+
+#t1{
+  background: #FF0000;
+}
+
+#t3{
+  background: #FFFFFF;
+}
+
+#t5{
+  background: #FF0090;
+}
+
+#t7{
+  background: #FF00FF;
+}
+
+#t9{
+  background: #FF1000;
+}
+
+#t11{
+  background: #FF90FF;
+}
+
+#t13{
+  background: #FF9090;
+}
+
+#t15{
+  background: #FF25FF;
+}
+
+footer{
+  background: #0011FF;
+  width: auto;
+  height: 100px;
+}
